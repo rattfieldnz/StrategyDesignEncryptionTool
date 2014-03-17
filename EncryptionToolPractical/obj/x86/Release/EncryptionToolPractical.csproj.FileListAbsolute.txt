@@ -1,0 +1,7 @@
+F:\Polytech etc\Otago Polytech\2014\IN710 OOSD C#\My Practical Work\week4\StrategyDesignPracticals\EncryptionToolPractical\EncryptionToolPractical\EncryptionToolPractical\bin\Release\EncryptionToolPractical.exe
+F:\Polytech etc\Otago Polytech\2014\IN710 OOSD C#\My Practical Work\week4\StrategyDesignPracticals\EncryptionToolPractical\EncryptionToolPractical\EncryptionToolPractical\bin\Release\EncryptionToolPractical.pdb
+F:\Polytech etc\Otago Polytech\2014\IN710 OOSD C#\My Practical Work\week4\StrategyDesignPracticals\EncryptionToolPractical\EncryptionToolPractical\EncryptionToolPractical\obj\x86\Release\EncryptionToolPractical.Form1.resources
+F:\Polytech etc\Otago Polytech\2014\IN710 OOSD C#\My Practical Work\week4\StrategyDesignPracticals\EncryptionToolPractical\EncryptionToolPractical\EncryptionToolPractical\obj\x86\Release\EncryptionToolPractical.Properties.Resources.resources
+F:\Polytech etc\Otago Polytech\2014\IN710 OOSD C#\My Practical Work\week4\StrategyDesignPracticals\EncryptionToolPractical\EncryptionToolPractical\EncryptionToolPractical\obj\x86\Release\EncryptionToolPractical.csproj.GenerateResource.Cache
+F:\Polytech etc\Otago Polytech\2014\IN710 OOSD C#\My Practical Work\week4\StrategyDesignPracticals\EncryptionToolPractical\EncryptionToolPractical\EncryptionToolPractical\obj\x86\Release\EncryptionToolPractical.exe
+F:\Polytech etc\Otago Polytech\2014\IN710 OOSD C#\My Practical Work\week4\StrategyDesignPracticals\EncryptionToolPractical\EncryptionToolPractical\EncryptionToolPractical\obj\x86\Release\EncryptionToolPractical.pdb

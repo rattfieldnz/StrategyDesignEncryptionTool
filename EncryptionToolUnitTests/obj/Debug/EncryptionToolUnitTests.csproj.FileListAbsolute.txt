@@ -1,0 +1,7 @@
+C:\Users\attfire1\Desktop\EncryptionToolPractical\EncryptionToolUnitTests\bin\Debug\EncryptionToolUnitTests.dll
+C:\Users\attfire1\Desktop\EncryptionToolPractical\EncryptionToolUnitTests\bin\Debug\EncryptionToolUnitTests.pdb
+C:\Users\attfire1\Desktop\EncryptionToolPractical\EncryptionToolUnitTests\bin\Debug\EncryptionToolPractical.exe
+C:\Users\attfire1\Desktop\EncryptionToolPractical\EncryptionToolUnitTests\bin\Debug\EncryptionToolPractical.pdb
+C:\Users\attfire1\Desktop\EncryptionToolPractical\EncryptionToolUnitTests\obj\Debug\EncryptionToolUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\attfire1\Desktop\EncryptionToolPractical\EncryptionToolUnitTests\obj\Debug\EncryptionToolUnitTests.dll
+C:\Users\attfire1\Desktop\EncryptionToolPractical\EncryptionToolUnitTests\obj\Debug\EncryptionToolUnitTests.pdb

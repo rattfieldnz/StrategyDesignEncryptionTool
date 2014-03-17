@@ -1,0 +1,7 @@
+F:\Polytech etc\Otago Polytech\2014\IN710 OOSD C#\My Practical Work\week4\StrategyDesignPracticals\EncryptionToolPractical\EncryptionToolPractical\EncryptionToolUnitTests\bin\Release\EncryptionToolUnitTests.dll
+F:\Polytech etc\Otago Polytech\2014\IN710 OOSD C#\My Practical Work\week4\StrategyDesignPracticals\EncryptionToolPractical\EncryptionToolPractical\EncryptionToolUnitTests\bin\Release\EncryptionToolUnitTests.pdb
+F:\Polytech etc\Otago Polytech\2014\IN710 OOSD C#\My Practical Work\week4\StrategyDesignPracticals\EncryptionToolPractical\EncryptionToolPractical\EncryptionToolUnitTests\bin\Release\EncryptionToolPractical.exe
+F:\Polytech etc\Otago Polytech\2014\IN710 OOSD C#\My Practical Work\week4\StrategyDesignPracticals\EncryptionToolPractical\EncryptionToolPractical\EncryptionToolUnitTests\bin\Release\EncryptionToolPractical.pdb
+F:\Polytech etc\Otago Polytech\2014\IN710 OOSD C#\My Practical Work\week4\StrategyDesignPracticals\EncryptionToolPractical\EncryptionToolPractical\EncryptionToolUnitTests\obj\Release\EncryptionToolUnitTests.csprojResolveAssemblyReference.cache
+F:\Polytech etc\Otago Polytech\2014\IN710 OOSD C#\My Practical Work\week4\StrategyDesignPracticals\EncryptionToolPractical\EncryptionToolPractical\EncryptionToolUnitTests\obj\Release\EncryptionToolUnitTests.dll
+F:\Polytech etc\Otago Polytech\2014\IN710 OOSD C#\My Practical Work\week4\StrategyDesignPracticals\EncryptionToolPractical\EncryptionToolPractical\EncryptionToolUnitTests\obj\Release\EncryptionToolUnitTests.pdb
